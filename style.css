@@ -1,0 +1,78 @@
+.front{margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;} 
+.cover{background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+background-size: 100%;}
+
+.head1{font-size: 60px;
+    text-align: center;
+color: white;}
+.head2{text-align: center;
+padding-top: 20%;}
+.para1{color: white;
+text-align: center;}
+.para2{text-align: center;
+margin-left: 25%;
+margin-right: 25%;}
+.tk{margin-left: 38%;
+    text-decoration: none;
+background-color: aqua;
+padding: 10px 40px;
+border-radius: 10px;}
+.divid{display: flex;}
+.divid2{display: flex;
+    font-size: 20px;
+padding-left: 7%;
+padding-right: 7%;
+padding-top: 20%;}
+.divid3{display: flex;}
+.divid4{background-color: black;
+margin-top: 10%;
+padding-top: 3%;
+padding-bottom: 3%;}
+.last{color:red;}
+.last1{color: white;}
+.divid5{background-color: pink;
+margin-top: 5%;
+margin-left: 20%;
+padding: 60px 160px;
+}
+.dis{padding-left: 40px;}
+.dis2{text-align: center;
+padding-top: 10%;}
+.tk1{margin-left: 42%;
+text-decoration: none;
+background-color: aqua;
+padding: 10px 40px;
+border-radius: 10px;}
+.tk2{background-color: aqua;
+    text-decoration: none;
+padding: 10px 40px;
+border-radius: 10px;}
+.tk3{
+padding: 10px 40px;
+border-radius: 10px;}
+
+.sp{box-shadow: 5px 5px 20px rgb(231, 195, 195);
+margin: 70px;}
+.sp2{box-shadow: 10px 10px 50px rgb(231, 195, 195);
+margin: 1%;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 50px;
+padding-bottom: 40px;}
+
+.border{ margin-left: 15px;
+margin-right: 15px;
+color: rgb(226, 142, 40);}
+
+#tik{margin-left: 15px;
+margin-right: 15px;
+border-color: oranges;
+bottom: 2px red;}
+.mail{text-align: center;
+background-color: orange;}
